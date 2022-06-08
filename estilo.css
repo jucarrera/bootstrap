@@ -1,0 +1,23 @@
+.carousel {
+    position: relative;
+    width: 30%;
+    margin: auto;
+}
+
+
+h1{
+    color: rgb(245, 90, 19);
+    font-family:Verdana, Geneva, Tahoma, sans-serif, serif;
+    font-style: italic;
+}
+h2{
+    color: darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+.row>.col, .bd-example-row .row>[class^="col-"]{
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgb(224, 184, 81);
+    border: 1px solid rgb(41, 40, 40)
+}
